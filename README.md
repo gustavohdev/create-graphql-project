@@ -5,6 +5,7 @@ npm install
 ```
 
 # Run
+- make sure your port 3000 is open or change in the app.js
 ```sh
 node app.js
 ```
